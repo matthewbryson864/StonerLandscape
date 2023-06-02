@@ -672,7 +672,7 @@ section {
 .services .icon-box {
   padding: 60px 30px;
   transition: all ease-in-out 0.3s;
-  background: #588157;
+  background: #639162;
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.1);
   border-radius: 18px;
   border-bottom: 5px solid #cb997e;
@@ -710,16 +710,20 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: #282828;
+  font-weight: 500;
 }
 
 .services .icon-box:hover {
   transform: translateY(-10px);
-  border-color: #e4e4e2;
+  border-color: #a5a58d;
 }
 
 .services .icon-box:hover h4 a {
-  color: #e4e4e2;
+  color: #ffffff;
 }
+
+
 
 /*--------------------------------------------------------------
 # Cta
